@@ -12,7 +12,7 @@ def even_odd():
         Para la entrada "7", la salida esperada es:
         El numero 7 es impar
     """
-    pass
+
     #PARA SABER UE ES PAR --> NUM %2 == 0      OR      NUM %2 !=0
 
     numero = int(input("Ingrese el numero: "))

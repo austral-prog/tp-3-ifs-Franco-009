@@ -17,7 +17,6 @@ def weekday():
         Para la entrada "domingo", la salida esperada es:
         Fin de semana
     """
-    pass
     dia = input("ingrese el dia: ").lower() #ojo con esto, el lower(), upper(), title()
     dias = "sabado", "domingo"
     if dia not in dias:
