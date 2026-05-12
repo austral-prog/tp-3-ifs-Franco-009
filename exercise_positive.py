@@ -15,7 +15,7 @@ def positive():
         Para la entrada "0", la salida esperada es:
         El numero es cero
     """
-    pass
+
     numero = int(input("ingrese el numero: "))
     if numero > 0:
         print("El numero es positivo")
