@@ -9,3 +9,4 @@ def triangle():
     else:
         print("Los lados no forman un triangulo valido")
         
+# triangle()
